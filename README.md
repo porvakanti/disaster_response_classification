@@ -27,6 +27,6 @@ The random forest classifier model scored 74% accuracy, 98% precision, 78% recal
 
 ### Screenshots:
 
-![alt text](https://raw.githubusercontent.com/porvakanti/disaster_response_classification/images/1.png)
+![alt text](https://raw.githubusercontent.com/porvakanti/disaster_response_classification/images/1.PNG)
 
-![alt text](https://raw.githubusercontent.com/porvakanti/disaster_response_classification/images/2.png)
+![alt text](https://raw.githubusercontent.com/porvakanti/disaster_response_classification/images/2.PNG)
